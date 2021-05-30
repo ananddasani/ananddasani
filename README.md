@@ -2,6 +2,8 @@
 
 ## I'm a Coder, Leader, Developer, and Open Source Contributor!!
 
+---
+
 ## About Me 🚀
 
 🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science & Engineering. </br>
@@ -12,6 +14,8 @@
 - 🔭 LeaderShip in the Blood 😁
 - 💬 Want to get help in DSA ?
 - ⚡ Fun fact: I like to smile at those who hate me 😉
+
+---
 
 ### :gear: Core Skills :
 
