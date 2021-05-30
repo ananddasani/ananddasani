@@ -1,5 +1,9 @@
-### Hi there, I'm Anand Dasani aka - AD 👋
+### Hi there, I'm Anand Dasani aka - AD <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 Coder, Leader, Developer, and Open Source Contributor!!
+
+<!-- ![Hey there, I'm Anand. I'm a Programmer, an Open Source enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif) -->
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ---
 
@@ -12,6 +16,7 @@ Coder, Leader, Developer, and Open Source Contributor!!
 
 - 🔭 LeaderShip in the Blood 😁
 - 💬 Want to get help in DSA ?
+- 🤔 I use daily ```.java```,```.py```, ```.c```, ```.cpp```, ```.sql```
 - ⚡ Fun fact: I like to smile at those who hate me 😉
 
 ---
@@ -23,16 +28,6 @@ Coder, Leader, Developer, and Open Source Contributor!!
 - **Database Technologies**: `MySQL` , `Oracle`
 
 - **CS Core**: `Data Structures`,`Designing Algorithms`, `DBMS` , `OS` , `Networking` , `Computer Organization` , `Digital Fundamentals`
-
----
-
-<h2 align="center">📫 Reach out to me on</h2>
-<p align="center">
-  <a href="https://www.instagram.com/ananddasani/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/anand-dasani-b72954202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ananddasani0@gmail.com?subject=Hello%20Anand,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br />
 
 ---
 
@@ -57,7 +52,19 @@ Coder, Leader, Developer, and Open Source Contributor!!
 
 ---
 
-## Github Statistics 📃
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/ananddasani/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananddasani#version3"/>
+  </a>
+</p>
+
+<br />
+
+---
+
+## Git Activness 📃
 
 <a href="https://github.com/ananddasani/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananddasani&show_icons=true" alt=".." />
@@ -66,10 +73,33 @@ Coder, Leader, Developer, and Open Source Contributor!!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananddasani" alt=".."  />
 </a>
 
-<!-- ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananddasani&show_icons=true) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananddasani)](https://github.com/ananddasani/github-readme-stats) -->
+<!-- ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananddasani&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananddasani)](https://github.com/ananddasani/github-readme-stats) -->
 
 <br />
+<br />
+
+---
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=ananddasani&theme=juicyfresh&no-bg=true" />
+
+---
+
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+<!--   <a href="https://www.instagram.com/ananddasani/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/anand-dasani-b72954202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ananddasani0@gmail.com?subject=Hello%20Anand,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+  
+  <!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-Anand_Dasani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anand-dasani-b72954202/)
+[![Gmail](https://img.shields.io/badge/-ananddasani0-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ananddasani0@gmail.com)
+[![Telegram](https://img.shields.io/badge/-@ananddasani-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ananddasani)
+[![Instagram](https://img.shields.io/badge/-Anand_Dasani-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ananddasani)
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+</p>
 <br />
 
 ---
@@ -77,6 +107,7 @@ Coder, Leader, Developer, and Open Source Contributor!!
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
-
+  
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ananddasani.ananddasani)
 </p>
