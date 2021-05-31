@@ -13,6 +13,9 @@ Coder, Leader, Developer, and Open Source Contributor!!
 🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I am passionate about Data Structure, Machine Learning, Android Development. </br>
 
+<!-- The signature gif -->
+<!-- <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" /> -->
+
 **More me :**
 
 - 🔭 LeaderShip in the Blood 😁
@@ -23,13 +26,13 @@ Coder, Leader, Developer, and Open Source Contributor!!
 
 ---
 
-### :gear: Core Skills :
-
-- **Linux**: `Bash` , `Shell Scripting`
+### :gear: Skill Set:
 
 - **Database Technologies**: `MySQL` , `Oracle`
 
-- **Core Skill set :muscle:**: `Data Structures`,`Designing Algorithms`, `DBMS` , `OS` , `Networking` , `Computer Organization` , `Digital Fundamentals`
+- **Linux**: `Bash` , `Shell Scripting`
+
+- **Core Skill :muscle:**: `Data Structures`,`Designing Algorithms`, `DBMS` , `OS` , `Networking` , `Computer Organization` , `Digital Fundamentals`
 
 ---
 
