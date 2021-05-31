@@ -33,8 +33,23 @@ Coder, Leader, Developer, and Open Source Contributor!!
 
 ### 🔭 My top Tech Stack and Tools:
 
-<p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a> <img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a> <a> <img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a> <a> <img  width="40" height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-
+<p align="left"> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> 
+  <a> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
+  <a> <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="40" height="40" /> </a> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
+  <a> <img style="margin: 10px" src="https://img.icons8.com/color/30/ubuntu--v1.png" alt="Ubuntu" width="40" height="40" /> </a>
+  <a> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /> </a>
+  <a> <img style="margin: 10px" src="https://img.icons8.com/color/30/kali-linux.png" alt="Kali" width="40" height="40" /> </a>
+  <a> <img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a>
+  <a> <img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>     <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a> <img  width="40" height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 
 <br />
 <br />
@@ -69,13 +84,11 @@ Coder, Leader, Developer, and Open Source Contributor!!
 <a href="https://github.com/ananddasani/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananddasani&show_icons=true" alt=".." />
 </a>
-<a href="https://github.com/ananddasani/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananddasani" alt=".."  />
-</a>
 
-<!-- ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananddasani&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananddasani)](https://github.com/ananddasani/github-readme-stats) -->
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananddasani)](https://github.com/ananddasani/github-readme-stats)
+ -->
+ 
 <br />
 <br />
 
