@@ -101,9 +101,6 @@ Coder, Leader, Developer, and Open Source Contributor!!
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
-<!--   <a href="https://www.instagram.com/ananddasani/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/anand-dasani-b72954202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ananddasani0@gmail.com?subject=Hello%20Anand,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   
   <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Anand_Dasani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anand-dasani-b72954202/)
