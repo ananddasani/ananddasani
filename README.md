@@ -1,4 +1,4 @@
-### Hi there, I'm Anand Dasani aka - AD <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+### Hello folks! , I'm Anand Dasani aka - AD <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 Coder, Leader, Developer, and Open Source Contributor!!
 
 <!-- ![Hey there, I'm Anand. I'm a Programmer, an Open Source enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif) -->
@@ -15,7 +15,8 @@ Coder, Leader, Developer, and Open Source Contributor!!
 **More me :**
 
 - 🔭 LeaderShip in the Blood 😁
-- 💬 Want to get help in DSA ?
+- 👨🏽‍💻 I’m currently working on something cool 😉
+- 💬 Want to get help in DSA ? **[I am happy to help.](https://t.me/ananddasani)**
 - 🤔 I use daily ```.java```,```.py```, ```.c```, ```.cpp```, ```.sql```
 - ⚡ Fun fact: I like to smile at those who hate me 😉
 
@@ -41,15 +42,25 @@ Coder, Leader, Developer, and Open Source Contributor!!
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> 
   <a> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
+  <a href="https://www.markdownguide.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/markdown.svg" alt="markdown" width="40" height="40"/> </a>
   <a> <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="40" height="40" /> </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" /> </a>
-  <a> <img style="margin: 10px" src="https://img.icons8.com/color/30/ubuntu--v1.png" alt="Ubuntu" width="40" height="40" /> </a>
+  <a> <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvslUfejVmgcXWOZKb269Ru4ITYQagI2914V_G6wsP36go60d4pQ-E_0wMo5XoCrmMt5k&usqp=CAU" alt="Ubuntu" width="40" height="40" /> </a>
   <a> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /> </a>
-  <a> <img style="margin: 10px" src="https://img.icons8.com/color/30/kali-linux.png" alt="Kali" width="40" height="40" /> </a>
+   <a> <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" width="40" height="40" /> </a>
+  <a> <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWT7cTUv1oeutfGb2rImWgIKTqzmkSpMRbw&usqp=CAU" alt="Kali" width="50" height="40" /> </a>
   <a> <img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a>
   <a> <img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>     <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  
+  
   <a> <img  width="40" height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+  <a> <img  width="50" height="50" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC.jpg"/> </a>
+  <a> <img  width="40" height="40" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"/> </a>
+  <a> <img  width="40" height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/> </a>
+  <a> <img  width="50" height="50" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"/> </a>
+  <a> <img  width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPFJjBdQu7fysTJCjJlb05rcARv4W_LyUmg&usqp=CAU"/> </a>
+  <a> <img  width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/1200px-Oracle_Corporation_logo.svg.png"/> </a>
 
 <br />
 <br />
@@ -99,10 +110,9 @@ Coder, Leader, Developer, and Open Source Contributor!!
 
 ---
 
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center">📫 Let's Connect to other Accounts :coffee:</h2>
 <p align="center">
   
-  <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Anand_Dasani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anand-dasani-b72954202/)
 [![Gmail](https://img.shields.io/badge/-ananddasani0-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ananddasani0@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@ananddasani-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ananddasani)
