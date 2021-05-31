@@ -1,6 +1,6 @@
 ### Hello folks! , I'm Anand Dasani aka - AD <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-Coder, Leader, Developer, and Open Source Contributor!!
+Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 
 <!-- ![Hey there, I'm Anand. I'm a Programmer, an Open Source enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif) -->
 
@@ -40,11 +40,11 @@ Coder, Leader, Developer, and Open Source Contributor!!
 
 <h3>
   <code>
-    Preferred Languages
+    Worked With
   </code>
 </h3>
 
-<br>
+<!-- <br> -->
 
 <p align="left"> 
 <!--   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="10%" /></code></a>  -->
@@ -65,14 +65,15 @@ Coder, Leader, Developer, and Open Source Contributor!!
   <a><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code> </a> 
  
  <br>
-  <h3>
-  <code>
-    Tools Used
-  </code>
+ <br>
+  
+<h3>
+ <code>
+   Tools Used
+ </code>
 </h3>
-
-<br>
-
+  
+<!-- <p align="left">  -->
 <a><code><img  width="40" height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code></a>
 <a><code><img  width="50" height="50" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC.jpg"/></code></a>
 <a><code><img  width="40" height="40" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"/></code></a>
