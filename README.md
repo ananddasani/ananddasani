@@ -22,6 +22,7 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 - 👨🏽‍💻 I’m currently working on something cool 😉
 - 💬 Want to get help in DSA ? **[I am happy to help.](https://t.me/ananddasani)**
 - 🤔 I use daily `.java`,`.py`, `.c`, `.cpp`, `.sql`
+- 🪐 pro tip : If you can think Recursively, You can Master 🥋 Recursion
 - ⚡ Fun fact: I like to smile at those who hate me 😉
 
 ---
