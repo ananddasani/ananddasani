@@ -121,6 +121,9 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 <a href="https://github.com/ananddasani/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananddasani&show_icons=true" alt=".." />
 </a>
+<!-- <a href="https://github.com/ananddasani/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananddasani&layout=compact" alt=".."  />
+</a> -->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananddasani)](https://github.com/ananddasani/github-readme-stats)
