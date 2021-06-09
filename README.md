@@ -157,7 +157,8 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
-  
+
+  </p> 
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ananddasani.ananddasani)
-</p>
+
