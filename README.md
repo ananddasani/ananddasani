@@ -42,6 +42,17 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 
 <h3>
   <code>
+    Development Skills
+  </code>
+</h3>
+ 
+  <a><code><img  width="60" height="60" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"/></code> </a>
+  <a><code><img  width="50" height="50" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png"/></code> </a>
+  
+ <br>
+
+<h3>
+  <code>
     Worked With
   </code>
 </h3>
@@ -54,6 +65,7 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code></a> 
   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code></a> 
   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a> 
+  <a><code><img  width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVr124VQmn7yvP10KhhNwUEmJOFmD-2LJipKKiZXQDXf08AXi5dPErfmlg2YGUuo-nCbE&usqp=CAU"/></code> </a>
   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code></a>
   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code></a>  </a> 
   <a><code><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code></a> 
@@ -62,13 +74,11 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
   <a><code> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="80" height="40"/></code> </a>
   <a><code> <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="40" height="40" /> </code></a> 
   <a><code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code> </a> 
-  <a><code> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></code> </a>
-  <a><code> <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" width="40" height="40" /></code> </a>
   <a><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code> </a> 
  
  <br>
  <br>
-  
+ 
 <h3>
  <code>
    Tools Used
@@ -83,14 +93,20 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 <a><code><img  width="50" height="50" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"/></code> </a>
 <a><code><img  width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPFJjBdQu7fysTJCjJlb05rcARv4W_LyUmg&usqp=CAU"/></code></a>
 <a><code><img  width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/1200px-Oracle_Corporation_logo.svg.png"/></code></a>
-<a><code><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" /></code></a>
-<a><code><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvslUfejVmgcXWOZKb269Ru4ITYQagI2914V_G6wsP36go60d4pQ-E_0wMo5XoCrmMt5k&usqp=CAU" alt="Ubuntu" width="40" height="40" /></code></a>
-<a><code><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWT7cTUv1oeutfGb2rImWgIKTqzmkSpMRbw&usqp=CAU" alt="Kali" width="50" height="40" /></code></a>
 <a><code><img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code></a>
 <a><code><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code></a>
-
-<br />
-<br />
+  
+  <h3>
+  <code>
+    Linux
+  </code>
+</h3>
+ 
+  <a><code> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></code> </a>
+  <a><code> <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" width="40" height="40" /></code> </a>
+  <a><code><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" /></code></a>
+  <a><code><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvslUfejVmgcXWOZKb269Ru4ITYQagI2914V_G6wsP36go60d4pQ-E_0wMo5XoCrmMt5k&usqp=CAU"     alt="Ubuntu" width="40" height="40" /></code></a>
+  <a><code><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWT7cTUv1oeutfGb2rImWgIKTqzmkSpMRbw&usqp=CAU" alt="Kali" width="50" height="40"    /></code></a>
 
 ---
 
