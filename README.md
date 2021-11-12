@@ -1,4 +1,6 @@
-### Hello folks! , 𝕯ⱥsͥⱥꫛ𝒾 父 Ⱥnaͣnͫd ツ aka - AD <img src="https://github.com/ananddasani/ananddasani/blob/main/gif/Hi.gif" width="30px">
+### Hello folks! ,I am Anand Dasani aka - AD <img src="https://github.com/ananddasani/ananddasani/blob/main/gif/Hi.gif" width="30px">
+
+<!-- 𝕯ⱥsͥⱥꫛ𝒾 父 Ⱥnaͣnͫd ツ -->
 
 Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" height="40"/> -->
@@ -49,6 +51,18 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
   <a><code><img  width="60" height="60" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"/></code> </a>
   <a><code><img  width="50" height="50" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png"/></code> </a>
   
+<!--  <br> -->
+ 
+ <h3>
+  <code>
+    DataBase
+  </code>
+</h3>
+ 
+  <a><code> <img alt="Firebase" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZSF61dO588rnQBCIXmOaSlYYi1pIBFW0npAtqGdx2PYzxA5aw4cwqxylqSdkS2Z_X5A&usqp=CAU"  width="60" height="60" /> </code></a> 
+  <a><code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></code> </a> 
+  <a><code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLxt0XrQ-GJmArNYbX8DlsE9KdnIk-0ZhXBJSgf9EPOAId53wrOizRF7JO4ve8DJOJKs&usqp=CAU" alt="Oracle" width="60" height="60"/></code> </a> 
+  
  <br>
 
 <h3>
@@ -72,9 +86,8 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
   <a><code><href="https://www.markdownguide.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/markdown.svg" alt="markdown" width="40" height="40"/></code></a>
   <a><code> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="80" height="40"/></code> </a>
   <a><code> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="80" height="40"/></code> </a>
-  <a><code> <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="40" height="40" /> </code></a> 
-  <a><code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code> </a> 
   <a><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code> </a> 
+  <a><code> <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="40" height="40" /> </code></a> 
  
  <br>
  <br>
@@ -92,7 +105,6 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 <a><code><img  width="40" height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/></code></a>
 <a><code><img  width="50" height="50" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"/></code> </a>
 <a><code><img  width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPFJjBdQu7fysTJCjJlb05rcARv4W_LyUmg&usqp=CAU"/></code></a>
-<a><code><img  width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/1200px-Oracle_Corporation_logo.svg.png"/></code></a>
 <a><code><img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code></a>
 <a><code><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code></a>
   
