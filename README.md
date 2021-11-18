@@ -32,7 +32,7 @@ Coder, Leader, Developer, Quick Learner and Open Source Contributor!!
 
 ### :gear: Skill Set:
 
-- **Database Technologies**: `Firebase`, `MySQL` , `Oracle`
+- **Database Technologies**: `Firebase`, `MySQL`, `MySQLite`, `Oracle`
 
 - **Linux**: `Bash` , `Shell Scripting`
 
