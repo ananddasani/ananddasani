@@ -1,4 +1,4 @@
-### Hello folks! ,I am Anand Dasani aka - AD <img src="https://github.com/ananddasani/ananddasani/blob/main/gif/Hi.gif" width="30px">
+### Hello Folks! ,I am Anand Dasani aka - AD <img src="https://github.com/ananddasani/ananddasani/blob/main/gif/Hi.gif" width="30px">
 
 <!-- 𝕯ⱥsͥⱥꫛ𝒾 父 Ⱥnaͣnͫd ツ -->
 
