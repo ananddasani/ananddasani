@@ -23,7 +23,7 @@ Android Developer, Competitive Programmer and Open Source Contributor!!
 
 - 🔭 LeaderShip in the Blood 😁
 - 👨🏽‍💻 I’m currently working on something cool 😉
-- 💬 Want to get help in DSA ? **[I am happy to help.](https://t.me/ananddasani)**
+- 💬 Want to get help in Android Development ? **[I am happy to help.](https://t.me/ananddasani)**
 - 🤔 I use daily `.dart`, `.java`, `.py`, `.c`, `.cpp`, `.sql`
 - 🪐 pro tip : If you can think Recursively, You can Master 🥋 Recursion
 - ⚡ Fun fact: I like to smile at those who hate me 😉
