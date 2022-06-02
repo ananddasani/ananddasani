@@ -3,11 +3,11 @@
 <!-- 𝕯ⱥsͥⱥꫛ𝒾 父 Ⱥnaͣnͫd ツ -->
 
 Android Developer, Competitive Programmer and Open Source Contributor!!
-<!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" height="40"/> -->
+<!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="10" height="10"/> -->
 
 <!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 
-<img align="center" alt="GIF" src="https://github.com/ananddasani/ananddasani/blob/main/gif/AnandCodingGif.gif?raw=true" width="800" height="520" />
+<!-- <img align="center" alt="GIF" src="https://github.com/ananddasani/ananddasani/blob/main/gif/AnandCodingGif.gif?raw=true" width="100" height="100" /> -->
 
 ---
 
