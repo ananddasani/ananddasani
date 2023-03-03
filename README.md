@@ -62,8 +62,7 @@ SF + Android Developer, Competitive Programmer and Open Source Contributor!!
   <a><code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRbpGJTaTVYIyGxM8yIZMTgPFOqrPtaVzyBluQE51P_q6j4_1qG3QL7Gpi5F44EoBa9Ig&usqp=CAU" alt="SQLFLITE" width="120" height="70"/></code> </a> 
   <a><code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></code> </a> 
   <a><code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLxt0XrQ-GJmArNYbX8DlsE9KdnIk-0ZhXBJSgf9EPOAId53wrOizRF7JO4ve8DJOJKs&usqp=CAU" alt="Oracle" width="60" height="60"/></code> </a> 
-  
- <br>
+
 
 <h3>
   <code> Worked With </code>
@@ -85,7 +84,7 @@ SF + Android Developer, Competitive Programmer and Open Source Contributor!!
   <a><code> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="80" height="40"/></code> </a>
   <a><code> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="80" height="40"/></code> </a>
   <a><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code> </a> 
-  <a><code> <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="40" height="40" /> </code></a> 
+  <a><code> <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="40" height="40"/></code></a> 
  
  <br>
  <br>
