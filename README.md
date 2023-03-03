@@ -57,12 +57,10 @@ SF + Android Developer, Competitive Programmer and Open Source Contributor!!
  <h3>
   <code> DataBase </code>
 </h3>
- 
-  <a><code> <img alt="Firebase" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZSF61dO588rnQBCIXmOaSlYYi1pIBFW0npAtqGdx2PYzxA5aw4cwqxylqSdkS2Z_X5A&usqp=CAU"  width="60" height="60" /> </code></a> 
-  <a><code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRbpGJTaTVYIyGxM8yIZMTgPFOqrPtaVzyBluQE51P_q6j4_1qG3QL7Gpi5F44EoBa9Ig&usqp=CAU" alt="SQLFLITE" width="120" height="70"/></code> </a> 
-  <a><code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></code> </a> 
-  <a><code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLxt0XrQ-GJmArNYbX8DlsE9KdnIk-0ZhXBJSgf9EPOAId53wrOizRF7JO4ve8DJOJKs&usqp=CAU" alt="Oracle" width="60" height="60"/></code> </a> 
-
+  <a><code> <img alt="Firebase" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZSF61dO588rnQBCIXmOaSlYYi1pIBFW0npAtqGdx2PYzxA5aw4cwqxylqSdkS2Z_X5A&usqp=CAU"  width="50" height="50" /> </code></a> 
+  <a><code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRbpGJTaTVYIyGxM8yIZMTgPFOqrPtaVzyBluQE51P_q6j4_1qG3QL7Gpi5F44EoBa9Ig&usqp=CAU" alt="SQLFLITE" width="100" height="60"/></code> </a> 
+  <a><code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> </a> 
+  <a><code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLxt0XrQ-GJmArNYbX8DlsE9KdnIk-0ZhXBJSgf9EPOAId53wrOizRF7JO4ve8DJOJKs&usqp=CAU" alt="Oracle" width="50" height="50"/></code> </a> 
 
 <h3>
   <code> Worked With </code>
