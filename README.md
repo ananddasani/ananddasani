@@ -94,11 +94,13 @@ SF + Android Developer, Competitive Programmer and Open Source Contributor!!
 </h3>
   
 <!-- <p align="left">  -->
-<a><code><img  width="40" height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code></a>
+<a><code><img  width="40" height="40" src="https://s4hana-workshop.tools.mulesoft.com/s4hana/S4Workshop/_images/module2_lab2/step1_1_studio_logo.png"/></code></a>
+<a><code><img  width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/></code></a>
+<a><code><img  width="50" height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code></a>
 <a><code><img  width="50" height="50" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC.jpg"/></code></a>
+<a><code><img  width="50" height="50" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"/></code> </a>
 <a><code><img  width="40" height="40" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"/></code></a>
 <a><code><img  width="40" height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/></code></a>
-<a><code><img  width="50" height="50" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"/></code> </a>
 <a><code><img  width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPFJjBdQu7fysTJCjJlb05rcARv4W_LyUmg&usqp=CAU"/></code></a>
 <a><code><img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code></a>
 <a><code><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code></a>
