@@ -1,9 +1,9 @@
-### Hello Folks! ,I am Anand Dasani aka - AD 
+### Hello Folks! I am Anand Dasani aka - AD 
 <!-- <img src="https://github.com/ananddasani/ananddasani/blob/main/gif/Hi.gif" width="10px"> -->
 
 <!-- 𝕯ⱥsͥⱥꫛ𝒾 父 Ⱥnaͣnͫd ツ -->
 
-Android Developer, Competitive Programmer and Open Source Contributor!!
+SF + Android Developer, Competitive Programmer and Open Source Contributor!!
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" height="40"/>
 
 <!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
@@ -15,7 +15,7 @@ Android Developer, Competitive Programmer and Open Source Contributor!!
 ## Who am I ? 🚀
 
 🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I am passionate about Data Structure, Machine Learning, Android Development. </br>
+👨‍💻 I am passionate about Data Structure, Salesforce, Android Development. </br>
 
 <!-- The signature gif -->
 <img align="right" src="https://media.giphy.com/media/1FuNApKOgm0XwcjHaj/giphy.gif" width="400px" />
@@ -25,7 +25,7 @@ Android Developer, Competitive Programmer and Open Source Contributor!!
 - 🔭 LeaderShip in the Blood 😁
 - 👨🏽‍💻 I’m currently working on something cool 😉
 - 💬 Want to get help in Android Development ? **[I am happy to help.](https://t.me/ananddasani)**
-- 🤔 I use daily `.dart`, `.java`, `.py`, `.c`, `.cpp`, `.sql`
+- 🤔 I use daily `.apex`, `.java`, `.mule`, `.sql`, `.js`, `.css`, `.html`
 - 🪐 pro tip : If you can think Recursively, You can Master 🥋 Recursion
 - ⚡ Fun fact: I like to smile at those who hate me 😉
 
@@ -44,20 +44,18 @@ Android Developer, Competitive Programmer and Open Source Contributor!!
 ### 🔭 My top Tech Stack and Tools:
 
 <h3>
-  <code>
-    Development Skills
-  </code>
+  <code> Development Skills </code>
 </h3>
  
+  <a><code><img  width="100" height="70" src="https://leaptodigital.com/wp-content/uploads/2021/02/Salesforce-Logo.png"/></code> </a>
+  <a><code><img  width="100" height="70" src="https://www.capgemini.com/pt-en/wp-content/uploads/sites/20/2019/07/mulesoft-1.png"/></code> </a>
   <a><code><img  width="60" height="60" src="https://1.bp.blogspot.com/-PwaAONmMm78/V-ASbVPG39I/AAAAAAAADZY/boHNhTW5V4Y45qzx6gIweePgoO2VkIhfQCLcB/s1600/image04.png"/></code> </a>
-  <a><code><img  width="50" height="50" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png"/></code> </a>
+  <a><code><img  width="60" height="60" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png"/></code> </a>
   
 <!--  <br> -->
  
  <h3>
-  <code>
-    DataBase
-  </code>
+  <code> DataBase </code>
 </h3>
  
   <a><code> <img alt="Firebase" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZSF61dO588rnQBCIXmOaSlYYi1pIBFW0npAtqGdx2PYzxA5aw4cwqxylqSdkS2Z_X5A&usqp=CAU"  width="60" height="60" /> </code></a> 
@@ -68,9 +66,7 @@ Android Developer, Competitive Programmer and Open Source Contributor!!
  <br>
 
 <h3>
-  <code>
-    Worked With
-  </code>
+  <code> Worked With </code>
 </h3>
 
 <!-- <br> -->
@@ -95,9 +91,7 @@ Android Developer, Competitive Programmer and Open Source Contributor!!
  <br>
  
 <h3>
- <code>
-   Tools Used
- </code>
+ <code> Tools Used </code>
 </h3>
   
 <!-- <p align="left">  -->
@@ -111,9 +105,7 @@ Android Developer, Competitive Programmer and Open Source Contributor!!
 <a><code><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code></a>
   
   <h3>
-  <code>
-    Linux
-  </code>
+  <code> Linux </code>
 </h3>
  
   <a><code> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="40" height="40" /></code> </a>
