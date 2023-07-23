@@ -71,14 +71,16 @@ SF + Android Developer, Competitive Programmer and Open Source Contributor!!
 
 <p align="left"> 
 <!--   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="10%" /></code></a>  -->
-  <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code></a>
-  <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code></a> 
+  <a><code><img src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="apex" width="70" height="50"/></code> </a> 
+  <a><code><img src="https://www.awesomelwc.com/resources/lwc.png" alt="lwc" width="40" height="40"/></code> </a> 
   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code></a> 
-  <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a> 
-  <a><code><img  width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVr124VQmn7yvP10KhhNwUEmJOFmD-2LJipKKiZXQDXf08AXi5dPErfmlg2YGUuo-nCbE&usqp=CAU"/></code> </a>
   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code></a>
   <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code></a>  </a> 
   <a><code><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code></a> 
+  <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code></a>
+  <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code></a> 
+  <a><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a> 
+  <a><code><img  width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVr124VQmn7yvP10KhhNwUEmJOFmD-2LJipKKiZXQDXf08AXi5dPErfmlg2YGUuo-nCbE&usqp=CAU"/></code> </a>
   <a><code><href="https://www.markdownguide.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/markdown.svg" alt="markdown" width="40" height="40"/></code></a>
   <a><code> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="80" height="40"/></code> </a>
   <a><code> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="80" height="40"/></code> </a>
